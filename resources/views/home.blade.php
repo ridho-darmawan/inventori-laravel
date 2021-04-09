@@ -101,7 +101,7 @@
                 
                 <div class="row">
 
-                <div class="col-sm-6 col-lg-3">
+                    <div class="col-sm-6 col-lg-3">
                         <div class="card text-white bg-flat-color-6">
                             <div class="card-body">
                             <div class="card-left pt-1 float-left">
@@ -185,7 +185,7 @@
 
     
                 </div><!-- .row -->
-</div>
+            </div>
         
     
        
